@@ -75,7 +75,7 @@ The output will be available in the `out` folder.
 
 ## 👤 Author
 
-Made by [Lucas Costa](https://github.com/lcscostadev)
+Made by [Lucas Costa](https://github.com/secatul)
 
 ---
 
